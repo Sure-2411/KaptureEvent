@@ -53,10 +53,9 @@ cd KaptureEvent
 Navigate to the API directory and run the application.
 
 cd Project-Kapture-Events-API-main/
-# Run the Java application (e.g., using a Spring Boot or similar command)
-# Replace 'your-build-command' with the appropriate command for your project.
-# For example:
-# ./mvnw spring-boot:run
+# Run the Java application 
+# Replace 'your-build-command' with ./mvnw spring-boot:run.
+
 
 3. Set up the Frontend
 Open a new terminal, navigate to the frontend directory, install the dependencies, and start the development server.
